@@ -1,0 +1,5 @@
+D:\Program\CarTest0723\CarTest\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Program\CarTest0723\CarTest\obj\x86\Release\CarTest.CarTest.resources
+D:\Program\CarTest0723\CarTest\obj\x86\Release\CarTest.Properties.Resources.resources
+D:\Program\CarTest0723\CarTest\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Program\CarTest0723\CarTest\obj\x86\Release\GenerateResource.write.1.tlog
